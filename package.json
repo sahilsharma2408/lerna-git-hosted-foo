@@ -1,0 +1,12 @@
+{
+  "name": "@sahilsharma2408/lerna-git-hosted-foo",
+  "version": "2.1.0",
+  "main": "index.js",
+  "author": "Sahil Sharma <sahil@sendinblue.com>",
+  "license": "MIT",
+  "private": true,
+  "repository": "git@github.com:sahilsharma2408/lerna-git-hosted-foo.git",
+  "dependencies": {
+    "lodash.snakecase": "^4.1.1"
+  }
+}
